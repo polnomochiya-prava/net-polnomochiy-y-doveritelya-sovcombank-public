@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+#theme:
+title: Нет полномочий у представителя Совкомбанка как минимум по двум основаниям
+description: Нет полномочий у представителя Совкомбанка как минимум по двум основаниям
+url: https://polnomochiya-prava.github.io/net-polnomochiy-y-doveritelya-sovcombank-public
+author: polnomochiyaprava
+google_analytics: UA-212345165-2
+plugins:  
+  - jekyll-seo-tag
