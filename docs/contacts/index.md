@@ -6,7 +6,8 @@
 |:-----|:-----|
 |Website:|[polnomochiyaprava.com](http://polnomochiyaprava.com)|
 |E-mail:|[polnomochiyaprava@pm.me](mailto:polnomochiya.prava@pm.me)|
-|TG User:|[polnomochiyaprava](https://t.me/polnomochiyaprava)|
-|TG Group:|[polnomochiya_prava](https://t.me/polnomochiya_prava)|
+|TG Channel:|[polnomochiyaprava](https://t.me/polnomochiyaprava)|
+|TG Group:|[polnomochiyapravagroup](https://t.me/polnomochiyapravagroup)|
+|TG User:|[polnomochiyapravabot](https://t.me/polnomochiyapravabot)|
 |TikTok:|[polnomochiyaprava](https://tiktok.com/@polnomochiyaprava)|
 |Instagram:|[polnomochiyaprava](https://instagram.com/polnomochiyaprava)|
